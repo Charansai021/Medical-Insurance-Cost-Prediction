@@ -1,4 +1,4 @@
-# 🏥 Medical Insurance Cost Prediction
+#  Medical Insurance Cost Prediction
 
 > An end-to-end machine learning project using interpretable linear regression models to predict medical insurance costs, with strong emphasis on EDA, feature engineering, and regularization.
 
